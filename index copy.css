@@ -1,0 +1,33 @@
+body {
+    background-color: skyblue;
+}
+h3 {
+    font-family: 'Didot', serif;
+    color: darkblue;
+}
+h1 {
+    color: lightpink;
+    font-family: 'Didot', serif;
+    background-color: cornflowerblue;
+}
+#intro {
+    font-family: 'Didot', serif;
+    color: darkblue
+}
+h2 {
+    font-family: 'Didot', serif;
+    color: lightpink;
+    background-color: cornflowerblue
+}
+.bio {
+    font-family: 'Didot', serif;
+    color: darkblue;
+}
+figcaption {
+    color: darkblue;
+    font-family: 'Didot', serif;
+}
+p {
+    font-family: 'Didot', serif;
+    color: darkblue;
+}
